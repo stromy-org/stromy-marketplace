@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier; DO NOT edit manually.
+_commit: 75cb640
+_src_path: gh:stromy-org/claude-marketplace-template
+author_name: William Masquelier
+client_name: Stromy
+client_slug: stromy
+github_org: stromy-org
+marketplace_name: Stromy Plugin Marketplace
+marketplace_slug: stromy-marketplace
+plugin_description: Claude Code plugin for Stromy branded deliverables
+plugin_slug: stromy-plugin

@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "stromy-marketplace",
+  "description": "Plugin marketplace for Stromy Claude Code plugins",
+  "owner": {
+    "name": "stromy-org"
+  },
+  "plugins": [
+    {
+      "name": "stromy",
+      "description": "Claude Code plugin for Stromy branded deliverables",
+      "version": "0.1.0",
+      "author": {
+        "name": "William Masquelier"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/stromy-org/stromy-plugin.git"
+      }
+    }
+  ]
+}
