@@ -9,7 +9,7 @@
     {
       "name": "stromy",
       "description": "Claude Code plugin for Stromy branded deliverables",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "author": {
         "name": "William Masquelier"
       },
