@@ -9,7 +9,7 @@
     {
       "name": "stromy",
       "description": "Claude Code plugin for Stromy branded deliverables \u2014 nl-gov-data analysis + stromy-format rendering + markdown-canvas deliverable planning",
-      "version": "0.9.0",
+      "version": "0.9.1",
       "author": {
         "name": "William Masquelier"
       },
