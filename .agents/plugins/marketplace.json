@@ -1,0 +1,19 @@
+{
+  "name": "stromy-marketplace",
+  "interface": {
+    "displayName": "Stromy"
+  },
+  "plugins": [
+    {
+      "name": "stromy",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/stromy-org/stromy-plugin.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      }
+    }
+  ]
+}
